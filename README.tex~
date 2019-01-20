@@ -1,0 +1,58 @@
+% Created 2018-12-29 Sat 15:29
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\author{mohanadatta}
+\date{\today}
+\title{README}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs 25.2.2 (Org mode 8.2.10)}}
+\begin{document}
+
+\maketitle
+Run test.ipynb file, it will take care of everything.
+
+
+Make sure:
+
+\begin{enumerate}
+\item test.csv, train.csv are present in same directory as test.ipynb
+\item all  pickle files are present in the same directory as test.ipynb
+\item vectorizer.pickle file should also be present in the same directory as
+\end{enumerate}
+test.ipynb
+
+Pickle files should be downloaded from this link: 
+\url{https://drive.google.com/open?id=1r4Jt8XWWUKRzLITTwybxmkKZKHepskf0}
+
+Refer oops.py for oops version of code.
+
+
+
+\textbf{\uline{This was done as part of ML course at IIITB.}}
+
+\section{Team Members:}
+\label{sec-1}
+\begin{itemize}
+\item Yelugtoi Mohana Datta (IMT2016012).
+\item Sri Sumanth Yenkipati (IMT2016081).
+\item Sri Ram Marisetty (IMT2016120).
+\end{itemize}
+% Emacs 25.2.2 (Org mode 8.2.10)
+\end{document}
