@@ -22,6 +22,4 @@ Refer oops.py for oops version of code.
 
 
 * Team Members:
-  - Yelugtoi Mohana Datta (IMT2016012).
-  - Sri Sumanth Yenkipati (IMT2016081).
   - Sri Ram Marisetty (IMT2016120).
